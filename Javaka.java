@@ -1,5 +1,5 @@
 class Javaka{
-String course ="java";
+static String course ="java";
 void notes(int a)
 {
 System.out.println(a);
